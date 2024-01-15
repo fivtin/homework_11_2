@@ -1,5 +1,5 @@
 def func_title(value):
-    """docsting to conflict remote state"""
+    """convert the first letters of each word to uppercase"""
     return value.title()
 
 
